@@ -1,0 +1,4 @@
+# Pour des messages d'erreur et/ou d'aide, ausef ca peut rester tel quel
+argument-manquant: "&cVeuillez Spécifier un argument!"
+joueur-invalide: "&cJoueur inconnu."
+joueur-requis: "&cUn joueur est requis pour executer cette commande!"

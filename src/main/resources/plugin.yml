@@ -1,0 +1,19 @@
+name: SweeterRoiCoeurBleu
+version: '${project.version}'
+main: fr.nicolol123.sweeter0.Main
+author: Nicolol123
+description: Plugin de Nicolol123 pour Le Roi Coeur Bleu (Sweeter0)
+api-version: 1.19
+commands:
+  annonce:
+    permission: sweeter0.annonce
+    description: Envoie un message dans le chat, supporte les codes couleurs
+  profil:
+    permission: sweeter0.profil
+    description: Récupère des infos sur un joueur
+  test:
+    permission: sweeter0.test
+    description: tt les tests de Nico sont la
+  Sweeter0:
+    permission: sweeter0.sweeter0
+    description: Seul Sweeter0 peut executer cette cmd
